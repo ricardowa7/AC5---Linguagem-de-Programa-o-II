@@ -1,1 +1,1 @@
-a = 'adição direta na master'
+a = 'nova adição direta na master'
